@@ -1,4 +1,4 @@
-[![Deploy to Vercel](/button)](https://vercel.com/import/project?template=https://github.com/yousan/japanese-converter/)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yousan/japanese-converter/)
 
 # Japanese Converter
 日本語の文字コードを変換するAPIを作成します。
@@ -14,7 +14,7 @@ $ curl --data-binary '@./testdata/utf8.txt' https://japanese-converter.vercel.ap
 # デプロイ
 Vercelで自動的にデプロイされています。
 
-[![Deploy to Vercel](/button)](https://vercel.com/import/project?template=https://github.com/yousan/japanese-converter/)
+[![Deploy to Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/yousan/japanese-converter/)
 
 Vercelのアカウントがある状態でフォークしてコミットプッシュすると自動的にデプロイされます。
 
