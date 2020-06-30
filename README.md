@@ -3,6 +3,9 @@
 # Japanese Converter
 日本語の文字コードを変換するAPIを作成します。
 
+![demo](https://github.com/yousan/japanese-converter/blob/master/.readme/demo.gif?raw=true)
+
+
 [デプロイ済みのエンドポイント](https://japanese-converter.vercel.app/api)
 
 # テスト
