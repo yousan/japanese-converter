@@ -1,7 +1,7 @@
 {
   "version": 2,
   "builds": [
-    { "src": "/api/*.html", "use": "@vercel/go" }
+    { "src": "/api/*", "use": "@vercel/go" }
   ],
   "github": {
     "enabled": true
