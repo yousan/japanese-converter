@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "builds": [
+    { "src": "/api/*.html", "use": "@vercel/go" }
+  ],
+  "github": {
+    "enabled": true
+  }
+}
